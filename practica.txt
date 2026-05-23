@@ -1,0 +1,8 @@
+Plaintext
+Mi primera práctica con Git y GitHub.
+
+Nombre: Jeison Nava
+Curso: Aplicaciones Open Source
+Fecha: 22/05/2026
+
+Estoy aprendiendo a usar control de versiones.
